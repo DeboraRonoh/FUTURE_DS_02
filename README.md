@@ -29,7 +29,7 @@ steps:
 
 # Exploratory Data Analysis
 
-The EDA involves exploring the social media data to answer key questions.
+The EDA involves exploring the customer support ticket data to answer key questions.
     - Which ticket type is most occuring?
     - which product has the highest issues reported?
     - what is the distribution interms of ticket priority?
